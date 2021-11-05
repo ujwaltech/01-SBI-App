@@ -1,4 +1,9 @@
 public Class DateUtils{
 
+int i=20;
+
+int j=300;
+
+
 
 }
