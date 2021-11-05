@@ -8,11 +8,21 @@ public static void GreetMsg(){
 
 }
 
+
 //bug no -193
 public static void doProcess(){
 
 System.out.Println("Fixing this urgent bug first....");
 
+}
+
+
+
+//bug no--190
+public static m1(){
+System.out.Println("m1() method calling.....");
+
+System.out.Println("currently i m fixing this bug.....");
 }
 
 
