@@ -3,4 +3,9 @@ class Demo{
 int p=500;
 int s=255;
 
+public static void display(){
+  System.out.Println("Hello Display Method::::::");
+
+}
+
 }
