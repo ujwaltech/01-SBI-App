@@ -1,3 +1,4 @@
 public class Hi{
+int k=5005;
 
 }

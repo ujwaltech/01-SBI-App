@@ -1,0 +1,6 @@
+class Demo{
+
+int p=500;
+int s=255;
+
+}
